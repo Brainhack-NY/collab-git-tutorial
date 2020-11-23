@@ -80,7 +80,7 @@ Delta compression using up to 8 threads.
 Compressing objects: 100% (28/28), done.
 Writing objects: 100% (32/32), 3.29 KiB | 0 bytes/s, done.
 Total 32 (delta 7), reused 0 (delta 0)
-To https://github.com/emdupre/git-papers.git
+To https://github.com/<USERNAME>/git-papers.git
  * [new branch]      master -> master
 Branch master set up to track remote branch master from origin.
 ```

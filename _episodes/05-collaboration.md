@@ -238,10 +238,10 @@ we can see that our file is listed as *Unmerged* and if we look at
 ```
 <<<<<<< HEAD
 Author
-E DuPre, J Smith
+V Dracula, J Smith
 =======
 author
-J Smith, E DuPre
+J Smith, V Dracula
 >>>>>>> 1b55fe7f23a6411f99bf573bfb287937ecb647fc
 ```
 
