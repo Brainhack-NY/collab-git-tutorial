@@ -6,7 +6,7 @@
 kind: "lesson"
 
 # Overall title for pages.
-title: "Collaborating with Git and Github"
+title: "Collaborating with Git and GitHub"
 
 # Repository URL (without trailing slash).
 repo: https://github.com/Brainhack-NY/collab-git-tutorial
