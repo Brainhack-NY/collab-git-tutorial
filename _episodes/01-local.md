@@ -100,7 +100,7 @@ $ ls
 {: .language-bash}
 But if we add the `-a` flsg to show all contents, we will see that Git has created a hidden directory within our repository called `.git`:
 ~~~
-$ ls -a
+$ ls -a .git
 ~~~
 {: .language-bash}
 ~~~

@@ -51,7 +51,7 @@ such as making code citable!
 Now, we can create a repository on GitHub,
 
 * Log in to [GitHub](https://GitHub.com/)
-* Click on the **Create** icon on the top right
+* Click on the **New** icon to create a new repository
 * Enter Repository name: "git-papers"
 * For the purpose of this exercise we'll create a public repository
 * Since we'll be importing a local repository, make sure that **Initialize this repository with a README** is **unselected**

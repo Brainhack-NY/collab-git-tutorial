@@ -54,6 +54,7 @@ contains merged files from master and feature1. After the merge we can continue
 developing. **The merged branch is not deleted.** We can continue developing (and
 making commits) in feature1 as well.
 
+![feature_branch](https://s3-us-west-2.amazonaws.com/readme-photos/git-flow-update-branches.png)
 
 ### Branching in practice
 
