@@ -76,8 +76,9 @@ uniquely identifies the changes made in this commit
 - date
 - your commit message
 
-Git automatically assigns an identifier (e.g. 4dd7f5) to each commit
-made to the repository
+![logadog](https://memegenerator.net/img/instances/68123024/i-dont-do-git-log-all-the-time-but-when-i-do-just-remember-a-dog-all-decorate-oneline-graph.jpg)
+
+Git automatically assigns an identifier (e.g. 4dd7f5) to each commit made to the repository
 --- we refer to this as *COMMITID* in the code blocks below.
 In order to see the changes made between any earlier commit and our
 current version, we can use  `git diff` followed by the commit identifier of the
