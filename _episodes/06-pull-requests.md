@@ -31,7 +31,7 @@ But as a contributor, pull requests provide a path to engage with the community.
 
 ## The process
 
-- Find a repository on GitHub that belongs to someone else (e.g., https://github.com/emdupre/more-papers)
+- Find a repository on GitHub that belongs to someone else (e.g., https://github.com/Brainhack-NY/more-papers)
 - **Fork** it on GitHub's servers into your GitHub account
 - Then `git clone` it to your PC/laptop
 - Make changes, and push them to your repository on GitHub
@@ -69,7 +69,7 @@ In either case, your PR will update automatically once you have pushed your comm
 > Let's look at the workflow and try to repeat it:
 >
 > 1. **Fork** [this
-> repository](https://github.com/emdupre/more-papers.git)
+> repository](https://github.com/Brainhack-NY/more-papers)
 > by  clicking on the `Fork` button at the top of the page.
 >
 > 2. Clone the repository from **YOUR** GitHub account. When you run `git remote -v`
